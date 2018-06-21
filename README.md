@@ -13,5 +13,5 @@ This repo includes written guides for the following languages (so far):
 + [CSS](css/README.md)
 + [HTML](html/README.md)
 + [Javascript](js/README.md)
-+ [PostCSS](postcss/README.md)
++ [Python](python/README.md)
 + [Sass](sass/README.md)
