@@ -4,7 +4,7 @@ These guides are here to help create consistency in our development. Consistency
 
 > "Success isn't always about greatness. It's about consistency..."
 
-So let's follow the lead of the People's Champ and keep our code consistent across the board.
+So let's smell what The Rock is cookin' and keep our code consistent across the board.
 
 ## Guides
 
